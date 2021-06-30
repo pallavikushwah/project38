@@ -1,0 +1,43 @@
+Don't repeart yourself(DRY)
+
+inheritance
+extends
+super
+
+c - 26
+
+pwd:-
+present working;
+
+mkdir:-
+make directory;
+
+ls:-
+list;
+
+cd:-
+change directory;
+
+git clone:-
+copy direvtory from github URL to laptop;
+
+                                          C - 27
+
+
+                                     FUNCTION : MOUSE DRAGGED
+
+Matter.body.
+
+
+
+
+
+
+
+
+
+
+
+                              important Bugs:-
+
+band,layer of band,remove bird
